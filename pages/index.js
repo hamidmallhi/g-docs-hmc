@@ -83,7 +83,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Google Docs Clone</title>
+        <title>Google-Docs-Clone</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
