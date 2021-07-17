@@ -5,6 +5,8 @@ import "../styles.css";
 import NextNprogress from "nextjs-progressbar";
 import { Provider } from "next-auth/client";
 
+
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
