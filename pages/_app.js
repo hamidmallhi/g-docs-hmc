@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <Provider session={pageProps.session}> 
-        {/* <NextNprogress
+        <NextNprogress
           color="#2196F3"
           startPosition={0.3}
           stopDelayMs={200}
@@ -26,7 +26,7 @@ function MyApp({ Component, pageProps }) {
           options={{ showSpinner: false }}
           showSpinner={false}
           showOnShallow={true}
-        />  */}
+        /> 
 
         <Component {...pageProps} />
       </Provider>
