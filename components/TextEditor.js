@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
+// import "react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 
 import dynamic from "next/dynamic";
 
